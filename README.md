@@ -23,3 +23,17 @@ The website includes the following main pages:
 1. Clone the repository to your local machine:
    ```bash
    git clone https://github.com/your-username/gym-management-system.git
+
+2. Navigate to the project directory:
+   ```bash
+   cd gym-management-system
+3. Install the necessary dependencies:
+   ```bash
+   pip install -r requirements.txt
+   #(If you don't have requirements.txt, install Flask manually via pip install Flask).
+
+4. Run the Flask application:
+   ```bash
+   python app.py
+
+5. Open your browser and visit the provided URL to view the website.
